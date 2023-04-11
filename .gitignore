@@ -1,0 +1,9 @@
+#Ignore catalog '.vs'
+.vs/
+
+#Ignore catalog 'Debug'
+Debug/
+
+#Ignore catalog 'MyVector/Debug'
+MyList/Debug/
+
